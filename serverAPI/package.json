@@ -1,0 +1,24 @@
+{
+  "name": "resfull_apex",
+  "version": "1.0.0",
+  "description": "server restfull",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "fastify": "^2.10.0",
+    "fastify-cors": "^2.2.0",
+    "fastify-formbody": "^3.1.0",
+    "json2csv": "^4.5.4",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "sha1": "^1.1.1",
+    "sybase": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anung",
+  "license": "ISC"
+}
