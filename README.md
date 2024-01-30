@@ -1,8 +1,7 @@
 # Excel Dashboard For KPI Monitoring
 Excel Dashboard For KPI Monitoring using VBA
 
-Built using NodeJs, Fastify, MySQL, MS Excel VBA  ![nodejs](![png-clipart-node-js-express-js-javascript-redis-mean-node-js-angle-text](https://github.com/anungma/Excel-Dashboard-For-KPI-Monitoring/assets/82875299/5a60b751-9b24-4510-a167-4fbf58e42138)
-)  ![fastify1](https://user-images.githubusercontent.com/82875299/153992686-5e8903f0-b132-4dec-8177-1720dabbfd26.png)
+Built using NodeJs, Fastify, MySQL, MS Excel VBA   ![fastify1](https://user-images.githubusercontent.com/82875299/153992686-5e8903f0-b132-4dec-8177-1720dabbfd26.png)
   ![mysql](https://user-images.githubusercontent.com/82875299/153736001-ce1f7f84-8763-4616-b9a6-fb73023c50a9.jpg)  ![vba](https://user-images.githubusercontent.com/82875299/153984559-89fbe7ab-c5f9-437b-bff8-4928c73d1b5a.png)
 
 
